@@ -1,0 +1,16 @@
+# .gitignore
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore dist folder if you're transpiling TypeScript code
+dist/
+
+# Ignore .env file to keep sensitive environment variables
+.env
+
+# Ignore various OS, IDE, and other temporary files
+*.log
+.DS_Store
+.idea/
+.vscode/
